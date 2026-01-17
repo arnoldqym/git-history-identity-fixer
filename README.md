@@ -1,6 +1,6 @@
-Don't forget to give a star
-
 🛠 Git History Identity Fixer
+
+Don't forget to give a star
 
 This script uses git filter-branch to programmatically scan your repository's history and replace an incorrect author/committer email and name with the correct ones.
 Note for safety it does not change for other collaborators should use with precaution ensuring you have written your correct details 
