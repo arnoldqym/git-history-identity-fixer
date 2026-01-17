@@ -1,3 +1,4 @@
+Don't forget to give a star
 
 🛠 Git History Identity Fixer
 
